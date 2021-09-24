@@ -1,7 +1,8 @@
 import pandas as pd
 import requests
 
-# Writing a script to retrieve and locally save the data from the Wikipedia website
+# Writing a script to retrieve and locally save the data
+# from the Wikipedia website
 
 url = "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biography/" \
     "Core_biographies/list"
